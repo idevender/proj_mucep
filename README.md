@@ -1,5 +1,5 @@
 # proj_mucep
-How to Use This Notebook:
+
 Hybrid ODE-CNN Model:
 
 The HybridODECNN class defines a CNN model that incorporates ODE layers for image classification tasks.
